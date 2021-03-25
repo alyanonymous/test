@@ -1,0 +1,1040 @@
+	
+0	
+group_name	"Biobank Applications"
+group_members	
+0	
+app_name	"app-baobab"
+app_dispay_name	"Baobab"
+short_description	"Biobank Information Management System (BIMS)"
+installable	true
+decoration	"new"
+tags	
+0	"Sample Management"
+1	"LIMS"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-baobab/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-baobab/master/environment-parameters.json"
+1	
+docker_version	"https"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-baobab/https/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-baobab/https/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-baobab/master/icon.png"
+1	
+app_name	"app-openspecimenTNG"
+app_dispay_name	"OpenSpecimen"
+short_description	"Sample Management"
+installable	true
+decoration	"new"
+tags	
+0	"Sample Management"
+versions	
+0	
+docker_version	"development"
+version	"v6.3.x"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/master/environment-parameters.json"
+1	
+docker_version	"v6-2-10"
+version	"v6.2.x"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/v6-2-10/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/v6-2-10/environment-parameters.json"
+2	
+docker_version	"v2-1-5"
+version	"v4.2.9"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/v2-1-5/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/v2-1-5/environment-parameters.json"
+3	
+docker_version	"v7-0-x"
+version	"v7.0.x"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/v7-0-x/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/v7-0-x/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-openspecimenTNG/master/icon.png"
+2	
+app_name	"app-molgenis"
+app_dispay_name	"Molgenis"
+short_description	"EXCEL in the Web"
+installable	true
+decoration	""
+tags	
+0	"Data Integration"
+versions	
+0	
+docker_version	"development"
+version	"v8.1.8"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-molgenis/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-molgenis/master/environment-parameters.json"
+1	
+docker_version	"v1-0-1"
+version	"v8.1.8"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-molgenis/v1-0-1/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-molgenis/v1-0-1/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-molgenis/master/icon.png"
+3	
+app_name	"app-phenotips"
+app_dispay_name	"PhenoTips"
+short_description	"Phenotype Editor for the HPO ontology"
+installable	true
+decoration	""
+tags	
+0	"Phenotyping"
+1	"Genetic Disorders"
+versions	
+0	
+docker_version	"V1-0-10"
+version	"v1.2.6"
+tooltip	"stable version"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-phenotips/V1-0-10/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-phenotips/V1-0-10/environment-parameters.json"
+1	
+docker_version	"development"
+version	"v1.4.9"
+tooltip	"V 1.3 with Pedigrees"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-phenotips/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-phenotips/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-phenotips/master/icon.png"
+4	
+app_name	"app-azizi-amp"
+app_dispay_name	"Azizi AMP"
+short_description	"A downstream mobile data processing solution"
+installable	true
+decoration	""
+tags	
+0	"Data Management"
+1	"Data Integration"
+2	"Data Collection"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-azizi-amp/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-azizi-amp/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-azizi-amp/master/icon.png"
+5	
+app_name	"app-azizi-onadata"
+app_dispay_name	"Azizi ODK Server"
+short_description	"A data collection server"
+installable	true
+decoration	""
+tags	
+0	"Data Collection"
+1	"Data Management"
+versions	
+0	
+docker_version	"development"
+version	"v0.1"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-azizi-onadata/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-azizi-onadata/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-azizi-onadata/master/icon.png"
+6	
+app_name	"app-redcap"
+app_dispay_name	"RedCap"
+short_description	"Survey Management System"
+installable	true
+decoration	""
+tags	
+0	"Survey"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-redcap/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-redcap/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-redcap/master/icon.png"
+7	
+app_name	"app-i2b2"
+app_dispay_name	"i2b2"
+short_description	"Data Warehouse"
+installable	true
+decoration	""
+tags	
+0	"Data Warehouse"
+versions	
+0	
+docker_version	"development"
+version	"v1"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-i2b2/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-i2b2/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-i2b2/master/icon.png"
+8	
+app_name	"app-bbmri-eric-dir"
+app_dispay_name	"BBMRI-ERIC Dir-Update"
+short_description	"BBMRI-ERIC Dir-Update"
+installable	true
+decoration	""
+tags	
+0	"Directory"
+1	"Biobank"
+2	"Data Management"
+versions	
+0	
+docker_version	"development"
+version	"v0.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-dir/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-dir/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-dir/master/icon.png"
+9	
+app_name	"app-bbmri-eric-directory"
+app_dispay_name	"BBMRI-ERIC Directory"
+short_description	"BBMRI-ERIC Directory"
+installable	true
+decoration	""
+tags	
+0	"Directory"
+1	"Biobank"
+2	"Data Management"
+versions	
+0	
+docker_version	"development"
+version	"v0.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-directory/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-directory/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-directory/master/icon.png"
+10	
+app_name	"app-bbmri-eric-negotiator"
+app_dispay_name	"BBMRI-ERIC Negotiator"
+short_description	"BBMRI-ERIC Negotiator"
+installable	true
+decoration	""
+tags	
+0	"Biobank"
+1	"Data Management"
+versions	
+0	
+docker_version	"development"
+version	"dev"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-negotiator/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-negotiator/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-negotiator/master/icon.png"
+11	
+app_name	"app-bbmri-eric-connector"
+app_dispay_name	"BBMRI-ERIC Connector"
+short_description	"BBMRI-ERIC Connector"
+installable	true
+decoration	""
+tags	
+0	"Biobank"
+1	"Data Management"
+versions	
+0	
+docker_version	"development"
+version	"dev"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-connector/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-connector/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-bbmri-eric-connector/master/icon.png"
+1	
+group_name	"Digital Pathology Applications"
+group_members	
+0	
+app_name	"app-girder"
+app_dispay_name	"Girder"
+short_description	"Data management platform for the web, developed by Kitware"
+installable	true
+decoration	""
+tags	
+0	"Data Management"
+1	"Digital Pathology"
+versions	
+0	
+docker_version	"development"
+version	"latest"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-girder/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-girder/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-girder/master/icon.png"
+1	
+app_name	"app-omero"
+app_dispay_name	"Omero"
+short_description	"Digital Microscopy"
+installable	true
+decoration	""
+tags	
+0	"Imaging"
+1	"Digital Pathology"
+versions	
+0	
+docker_version	"development"
+version	"v1"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-omero/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-omero/master/environment-parameters.json"
+1	
+docker_version	"v-5-6-0"
+version	"v5.6.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-omero/v-5-6-0/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-omero/v-5-6-0/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-omero/master/icon.png"
+2	
+app_name	"app-histomicstk"
+app_dispay_name	"Histomics TK"
+short_description	"Toolkit for the analysis of Histopathology images in association with clinical and genomic data developed by Kitware"
+installable	false
+decoration	"announced"
+tags	
+0	"Imaging"
+1	"Digital Pathology"
+versions	
+0	
+docker_version	"development"
+version	"v1"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-histomicstk/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-histomicstk/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-histomicstk/master/icon.png"
+3	
+app_name	"app-xnat"
+app_dispay_name	"XNAT"
+short_description	"Open Source Imaging Framework"
+installable	true
+decoration	""
+tags	
+0	"Imaging"
+1	"Digital Pathology"
+versions	
+0	
+docker_version	"development"
+version	"v1"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-xnat/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-xnat/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-xnat/master/icon.png"
+4	
+app_name	"app-molgenis"
+app_dispay_name	"Molgenis"
+short_description	"EXCEL in the Web"
+installable	true
+decoration	""
+tags	
+0	"Data Integration"
+versions	
+0	
+docker_version	"development"
+version	"v3.0.1"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-molgenis/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-molgenis/master/environment-parameters.json"
+1	
+docker_version	"v1-0-1"
+version	"v3.0.1"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-molgenis/v1-0-1/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-molgenis/v1-0-1/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-molgenis/master/icon.png"
+5	
+app_name	"app-seeddmsTNG"
+app_dispay_name	"SeedDMS"
+short_description	"Self-hosted file storage"
+installable	true
+decoration	""
+tags	
+0	"Files"
+1	"Storage"
+versions	
+0	
+docker_version	"5-1-5"
+version	"5.1.5"
+tooltip	"development version (5.1.5)"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/5-1-5/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/5-1-5/environment-parameters.json"
+1	
+docker_version	"5-1-18"
+version	"5.1.18"
+tooltip	"development version (5.1.18)"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/5-1-18/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/5-1-18/environment-parameters.json"
+2	
+docker_version	"6-0-11"
+version	"6.0.11"
+tooltip	"development version (6.0.11)"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/6-0-11/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/6-0-11/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/master/icon.png"
+2	
+group_name	"Bioinformatics Applications"
+group_members	
+0	
+app_name	"app-stategraems"
+app_dispay_name	"STATegraEMS"
+short_description	"Experiment Management"
+installable	true
+decoration	""
+tags	
+0	"Experiment Management System"
+1	"Bioinformatics"
+versions	
+0	
+docker_version	"development"
+version	"v1.0.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-stategraems/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-stategraems/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-stategraems/master/icon.png"
+1	
+app_name	"app-galaksio"
+app_dispay_name	"Galaksio"
+short_description	"Galaksio"
+installable	true
+decoration	"new"
+tags	
+0	"Galaxy"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-galaksio/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-galaksio/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-galaksio/master/icon.png"
+2	
+app_name	"app-galaxy"
+app_dispay_name	"Galaxy"
+short_description	"Galaxy"
+installable	true
+decoration	""
+tags	
+0	"Galaxy"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-galaxy/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-galaxy/master/environment-parameters.json"
+1	
+docker_version	"development"
+version	"V1.1"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-galaxy/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-galaxy/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-galaxy/master/icon.png"
+3	
+app_name	"app-exomeseq"
+app_dispay_name	"Galaxy-seq"
+short_description	"Galaxy instance running DNA-seq"
+installable	true
+decoration	""
+tags	
+0	"Galaxy"
+1	"DNA"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-exomeseq/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-exomeseq/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-exomeseq/master/icon.png"
+4	
+app_name	"app-rna-workbench"
+app_dispay_name	"RNA workbench"
+short_description	"Galaxy instance running RNA workbench"
+installable	true
+decoration	""
+tags	
+0	"Galaxy"
+1	"RNA"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-rna-workbench/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-rna-workbench/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-rna-workbench/master/icon.png"
+5	
+app_name	"app-scaleus"
+app_dispay_name	"Scaleus"
+short_description	"Semantic Web Services Integration for Biomedical Applications"
+installable	false
+decoration	"announced"
+tags	
+0	"Data Management"
+1	"Linked Data"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-scaleus/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-scaleus/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-scaleus/master/icon.png"
+3	
+group_name	"Helper Applications"
+group_members	
+0	
+app_name	"app-taiga"
+app_dispay_name	"TAIGA"
+short_description	"Project management tool for multi-functional agile teams"
+installable	true
+decoration	""
+tags	
+0	"Project Management"
+1	"Tool"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-taiga/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-taiga/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-taiga/master/icon.png"
+1	
+app_name	"app-orientdb"
+app_dispay_name	"OrientDB"
+short_description	"NoSQL Graph/ Document Database"
+installable	true
+decoration	""
+tags	
+0	"Database"
+1	"NoSQL"
+2	"Graph Database"
+versions	
+0	
+docker_version	"development"
+version	"2.2.17"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-orientdb/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-orientdb/master/environment-parameters.json"
+1	
+docker_version	"V2-1-25-01"
+version	"v2.1.25"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-orientdb/V2-1-25-01/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-orientdb/V2-1-25-01/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-orientdb/master/icon.png"
+2	
+app_name	"app-postgres"
+app_dispay_name	"PostgreSQL"
+short_description	"Object-relational database management system (ORDBMS)"
+installable	true
+decoration	""
+tags	
+0	"Database"
+versions	
+0	
+docker_version	"development"
+version	"latest"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-postgres/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-postgres/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-postgres/master/icon.png"
+3	
+app_name	"app-wordpress"
+app_dispay_name	"Wordpress"
+short_description	"Blog, Simple Webportal"
+installable	true
+decoration	""
+tags	
+0	"Blog"
+1	"CMS"
+versions	
+0	
+docker_version	"V4"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-wordpress/V4/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-wordpress/V4/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-wordpress/master/icon.png"
+4	
+app_name	"app-mycollab"
+app_dispay_name	"MyCollab CE"
+short_description	"Project Management System"
+installable	true
+decoration	""
+tags	
+0	"Project Management"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-mycollab/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-mycollab/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-mycollab/master/icon.png"
+5	
+app_name	"app-youtrack"
+app_dispay_name	"YouTrack"
+short_description	"Project management and issue tracking"
+installable	true
+decoration	""
+tags	
+0	"Project Management"
+1	"Issue Tracking"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-youtrack/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-youtrack/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-youtrack/master/icon.png"
+6	
+app_name	"app-plone"
+app_dispay_name	"Plone"
+short_description	"Content Management System"
+installable	true
+decoration	"new"
+tags	
+0	"CMS"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-plone/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-plone/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-plone/master/icon.png"
+7	
+app_name	"app-drupal"
+app_dispay_name	"Drupal"
+short_description	"Content Management System"
+installable	true
+decoration	"new"
+tags	
+0	"CMS"
+versions	
+0	
+docker_version	"development"
+version	"v8.3.2"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-drupal/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-drupal/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-drupal/master/icon.png"
+8	
+app_name	"app-limesurvey"
+app_dispay_name	"LimeSurvey"
+short_description	"LimeSurvey 2.63.1"
+installable	true
+decoration	""
+tags	
+0	"Survey"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-limesurvey/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-limesurvey/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-limesurvey/master/icon.png"
+9	
+app_name	"app-seeddmsTNG"
+app_dispay_name	"SeedDMS"
+short_description	"Self-hosted file storage"
+installable	true
+decoration	""
+tags	
+0	"Files"
+1	"Storage"
+versions	
+0	
+docker_version	"development"
+version	"v5.1.6"
+tooltip	"development version"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/master/environment-parameters.json"
+1	
+docker_version	"V5_1_5_1"
+version	"v5.1.5"
+tooltip	"stable version"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/V5_1_5_1/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/V5_1_5_1/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-seeddmsTNG/master/icon.png"
+10	
+app_name	"app-owncloud"
+app_dispay_name	"OwnCloud"
+short_description	"File sync and share server"
+installable	true
+decoration	""
+tags	
+0	"Storage"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-owncloud/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-owncloud/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-owncloud/master/icon.png"
+11	
+app_name	"app-nextcloud"
+app_dispay_name	"Nextcloud"
+short_description	"File sync and share server"
+installable	true
+decoration	""
+tags	
+0	"Storage"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-nextcloud/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-nextcloud/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-nextcloud/master/icon.png"
+12	
+app_name	"app-teampass"
+app_dispay_name	"TeamPass"
+short_description	"Easy centralized Password Mangement"
+installable	true
+decoration	"new"
+tags	
+0	"Password Management"
+1	"Password database"
+versions	
+0	
+docker_version	"development"
+version	"v?"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-teampass/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-teampass/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-teampass/master/icon.png"
+13	
+app_name	"app-jenkins"
+app_dispay_name	"Jenkins"
+short_description	"Build great things at any scale"
+installable	true
+decoration	"new"
+tags	
+0	"Development"
+1	"Build tool"
+versions	
+0	
+docker_version	"development"
+version	"v2.176.2"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-jenkins/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-jenkins/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-jenkins/master/icon.png"
+4	
+group_name	"Admin Dashboard"
+group_members	
+0	
+app_name	"app-openldap"
+app_dispay_name	"OpenLDAP"
+short_description	"OpenLDAP Software is an open source implementation of the Lightweight Directory Access Protocol"
+installable	true
+decoration	""
+tags	
+0	"User Integration"
+1	"Administration"
+versions	
+0	
+docker_version	"development"
+version	"vx.x"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-openldap/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-openldap/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-openldap/master/icon.png"
+1	
+app_name	"app-jupyter-datascience-notebook"
+app_dispay_name	"Jupyter Notebook"
+short_description	"Interactive data science and scientific computing"
+installable	true
+decoration	""
+tags	
+0	"Data Integration"
+1	"Data Analysis"
+versions	
+0	
+docker_version	"development"
+version	"v4.2"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-jupyter-datascience-notebook/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-jupyter-datascience-notebook/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-jupyter-datascience-notebook/master/icon.png"
+2	
+app_name	"app-bibbox-monitoring"
+app_dispay_name	"Monitoring"
+short_description	"Monitoring of Apps and Containers"
+installable	true
+decoration	""
+tags	
+0	"Admin"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-bibbox-monitoring/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-bibbox-monitoring/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-bibbox-monitoring/master/icon.png"
+3	
+app_name	"app-bacula"
+app_dispay_name	"Backup"
+short_description	"Backup BIBBOX apps"
+installable	false
+decoration	"announced"
+tags	
+0	"Backup"
+1	"Admin"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-bacula/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-bacula/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-bacula/master/icon.png"
+4	
+app_name	"app-elasticstack"
+app_dispay_name	"Elastic Stack"
+short_description	"Elastic Search Stack"
+installable	true
+decoration	""
+tags	
+0	"Search"
+versions	
+0	
+docker_version	"V1-0-2"
+version	"5.6.3"
+tooltip	"stable version"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-elasticstack/V1-0-2/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-elasticstack/V1-0-2/environment-parameters.json"
+1	
+docker_version	"development"
+version	"6.0 RC2"
+tooltip	"Not for production"
+appinfo	"https://raw.githubusercontent.com/bibbox/app-elasticstack/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-elasticstack/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-elasticstack/master/icon.png"
+5	
+app_name	"app-dbninja"
+app_dispay_name	"DbNinja for MySQL"
+short_description	"DbNinja"
+installable	true
+decoration	""
+tags	
+0	"Database"
+1	"Administration"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-dbninja/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-dbninja/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-dbninja/master/icon.png"
+6	
+app_name	"app-adminer"
+app_dispay_name	"Adminer"
+short_description	"Adminer"
+installable	true
+decoration	""
+tags	
+0	"Database"
+1	"Administration"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-adminer/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-adminer/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-adminer/master/icon.png"
+7	
+app_name	"app-mantis"
+app_dispay_name	"Mantis"
+short_description	"Mantis Bugtracker"
+installable	true
+decoration	""
+tags	
+0	"Bugtracker"
+1	"Administration"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-mantis/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-mantis/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-mantis/master/icon.png"
+8	
+app_name	"dev-app-checker"
+app_dispay_name	"App Checker"
+short_description	"App Checkcer"
+installable	true
+decoration	"new"
+tags	
+0	"Development"
+1	"Administration"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/dev-app-checker/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/dev-app-checker/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/dev-app-checker/master/icon.png"
+5	
+group_name	"Training"
+group_members	
+0	
+app_name	"app-training"
+app_dispay_name	"B3Africa Training"
+short_description	"B3Africa Trainings Platform"
+installable	true
+decoration	""
+tags	
+0	"trainings"
+versions	
+0	
+docker_version	"development"
+version	"v1.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-training/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-training/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-training/master/icon.png"
+6	
+group_name	"Development and Testing (NOT FOR PRODUCTION)"
+group_members	
+0	
+app_name	"app-template"
+app_dispay_name	"Application Template"
+short_description	"A Template of an APP, can not be installed"
+installable	false
+decoration	""
+tags	
+0	"Development"
+versions	
+0	
+docker_version	"development"
+version	"v0.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-template/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-template/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-template/master/icon.png"
+1	
+app_name	"app-i2b2box"
+app_dispay_name	"i2b2box"
+short_description	"lightweight deployment of i2b2 hive"
+installable	true
+decoration	""
+tags	
+0	"Development"
+versions	
+0	
+docker_version	"development"
+version	"v0.0"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-i2b2box/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-i2b2box/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-i2b2box/master/icon.png"
+2	
+app_name	"app-querytree"
+app_dispay_name	"Query Tree"
+short_description	"Ad-hoc reporting tool"
+installable	true
+decoration	""
+tags	
+0	"Database"
+1	"Visualization"
+versions	
+0	
+docker_version	"development"
+version	"latest"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-querytree/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-querytree/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-querytree/master/icon.png"
+3	
+app_name	"app-girder"
+app_dispay_name	"Girder"
+short_description	"Data management platform for the web, developed by Kitware"
+installable	true
+decoration	""
+tags	
+0	"Data Management"
+versions	
+0	
+docker_version	"development"
+version	"latest"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-girder/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-girder/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-girder/master/icon.png"
+4	
+app_name	"app-knowage"
+app_dispay_name	"Knowage"
+short_description	"Open Source Business Analytics"
+installable	true
+decoration	""
+tags	
+0	"Database"
+1	"BI"
+versions	
+0	
+docker_version	"development"
+version	"latest"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-knowage/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-knowage/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-knowage/master/icon.png"
+5	
+app_name	"app-cytomine"
+app_dispay_name	"Cytomine"
+short_description	"Open-source rich internet application for collaborative analysis of multi-gigapixel images using machine learning."
+installable	true
+decoration	""
+tags	
+0	"Digital Pathology"
+1	"Slide Storage"
+versions	
+0	
+docker_version	"development"
+version	"latest"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-cytomine/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-cytomine/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-cytomine/master/icon.png"
+6	
+app_name	"app-rd-connect-finder"
+app_dispay_name	"RD-Connect Finder"
+short_description	"RD-Connect Finder"
+installable	true
+decoration	""
+tags	
+0	"Directory"
+versions	
+0	
+docker_version	"development"
+version	"latest"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-rd-connect-finder/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-rd-connect-finder/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-rd-connect-finder/master/icon.png"
+7	
+app_name	"app-video-score"
+app_dispay_name	"Video Score"
+short_description	"Video Score"
+installable	true
+decoration	""
+tags	
+0	"Video"
+versions	
+0	
+docker_version	"development"
+version	"latest"
+tooltip	""
+appinfo	"https://raw.githubusercontent.com/bibbox/app-video-score/master/appinfo.json"
+environment-parameters	"https://raw.githubusercontent.com/bibbox/app-video-score/master/environment-parameters.json"
+icon_url	"https://raw.githubusercontent.com/bibbox/app-video-score/master/icon.png"
